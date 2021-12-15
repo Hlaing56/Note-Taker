@@ -19,4 +19,5 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## Process of making this application
+![Screen Shot of app](https://user-images.githubusercontent.com/90152576/146248688-8809cb9c-3650-4ca3-a9ce-491238c51d91.png)
+link to deployed application: https://sheltered-hamlet-23044.herokuapp.com/
