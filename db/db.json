@@ -1,12 +1,1 @@
-{
-    "notes": [
-        {
-            "title":"Test Tool",
-            "text":"Test text"
-        },
-        {
-            "title":"ligma Tool",
-            "text":"aext"
-        }
-    ]
-}
+[{"title":"Test Tool","text":"Test text"},{"title":"home","text":"sweet"},{"title":"hellw","text":"world"},{"title":"moon","text":"noon"}]
